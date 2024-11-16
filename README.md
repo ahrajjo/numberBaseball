@@ -59,7 +59,6 @@ number-baseball/
 ### 🚀 실행 방법
 프로젝트를 로컬에 클론하세요 !
 ```
-코드 복사
 git clone https://github.com/your-repo/number-baseball.git
 cd number-baseball
 index.html 파일을 브라우저에서 열어 게임을 실행합니다.
